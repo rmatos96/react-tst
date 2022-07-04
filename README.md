@@ -5,7 +5,7 @@ Por se tratar de uma aplicação pequena, fiz tudo em apenas um componente;
 Usei um arquivo .ts para colocar a lista com os países;
 <br>
 <br>
-E um arquivo .tsx como componente;
+E um arquivo .tsx como componente:
   <br>
   (linha 6 à 14) Criei as duas interfaces que utilizei;
   <br>
